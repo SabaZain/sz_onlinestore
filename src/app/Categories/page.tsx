@@ -49,7 +49,7 @@ export default function CategoriesSection() {
               />
             </div>
             <div className="p-6 text-center">
-              <h3 className="text-xl font-semibold mb-2">{name}</h3>
+              <h3 className="text-xl text-white font-semibold mb-2">{name}</h3>
               <p className="text-red-600">{description}</p>
             </div>
           </a>

@@ -10,11 +10,7 @@ export default function Topbar() {
        <div className="flex items-center space-x-3">
         <Image src="/Image/WhatsApp.svg.webp" alt="logo" width={50} height={50} className='rounded-full p-2' />
         0332-3319007
-        
-        </div>
-        
-        <div>
-          Fast & Reliable Delivery Across Pakistan!
+         
         </div>
       </div>
     </div>
