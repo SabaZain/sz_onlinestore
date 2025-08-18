@@ -1,0 +1,330 @@
+import ProductCard from '../components/ProductCard';
+
+export default function ExploreAllProductsPage() {
+  const products = [
+   {
+      image: '/Image/gentswatch1.jpg',
+      name: 'Gents Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladiesfootwear1.jpg',
+      name: 'Ladies Footwear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladieshandbag1.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/storagebox.jpg',
+      name: 'Storage Box',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/4layerstorage.jpg',
+      name: '4 Layers Storage',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/clothesshoerack.jpg',
+      name: 'Clothes & Shoe Rack',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/dishwasherbrush.jpg',
+      name: 'Dish Washer Brush',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/tumbler1.jpg',
+      name: 'Tumbler',
+      descriptin:'',
+      rating: 4,
+    },
+   
+    {
+      image: '/Image/plasticmop.jpg',
+      name: 'Plastic Mop',
+      description: '',
+      rating: 5,
+    },
+   {
+      image: '/Image/ladieshandbag2.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladieswatch2.jpg',
+      name: 'Ladies Watch',
+      description: '',
+      rating: 5,
+    },
+    
+    {
+      image: '/Image/skechers1.jpg',
+      name: 'Skechers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladiesfootwear2.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kidscolorset.jpg',
+      name: 'Kids Color Set',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidsprayermat.jpg',
+      name: 'Kids Prayer Mat',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidsdress1.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidsdress2.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+     {
+      image: '/Image/tumbler3.jpg',
+      name: 'Tumbler',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/tumbler2.jpg',
+      name: 'Tumbler',
+      description: '',
+      rating: 4,
+    },
+     {
+      image: '/Image/pandalamp.jpg',
+      name: 'Panda Lamp',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ac_cover.jpg',
+      name: 'AC Cover',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/sensorlight.jpg',
+      name: 'Sensor Light',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kitchenset.jpg',
+      name: 'Kitchen Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/cleaningclothroll.jpg',
+      name: 'Cleaning Cloth Roll',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/containerset.jpg',
+      name: 'Container Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/dustcleaner.jpg',
+      name: 'Dust Cleaner',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kidsdress3.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidsplayhouse.jpg',
+      name: 'Kids Play House',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kidsminitent.jpg',
+      name: 'Kids Mini Tent',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kidscars.jpg',
+      name: 'Kids Car',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/babytoys.jpg',
+      name: 'Baby Toys',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kidslettercoloring.jpg',
+      name: 'Kids Letter Color Set',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidsbag1.jpg',
+      name: 'Kids Bag',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidsdress4.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+   
+    {
+      image: '/Image/ladieshandbag3.jpg',
+      name: 'Ladies Hand Bag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladieswatch1.jpg',
+      name: 'Ladies Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/gentssleepers1.jpg',
+      name: 'Sleepers',
+      description: '',
+      rating: 5,
+    },
+   
+    
+    
+    
+    {
+      image: '/Image/partywear1.jpg',
+      name: 'Ladies Party Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/redstone_ring.jpg',
+      name: 'Redstone Ring',
+      description: '',
+      rating: 5,
+    },
+        {
+      image: '/Image/navyblue_ring.jpg',
+      name: 'Navyblue stone Ring',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/fishinggame.jpg',
+      name: 'Fishing Game',
+      description: '',
+      rating: 4,
+    },
+    
+    {
+      image: '/Image/kidsbag2.jpg',
+      name: 'Kids Bag',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/ladiesfootwear3.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladiesdress1.jpg',
+      name: 'Ladies Dress',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/chordsuit3.jpg',
+      name: 'Chord Suit',
+      description: '',
+      rating: 5,
+    },
+
+    {
+      image: '/Image/chordsuit1.jpg',
+      name: 'Chord Suit',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/chordsuit2.jpg',
+      name: 'Chord Suit',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/trayset.jpg',
+      name: 'Tray Set',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/wallsheets.jpg',
+      name: 'Wall Sheets',
+      description: '',
+      rating: 5,
+    },
+  
+  ];
+
+  return (
+    <section className="max-w-4xl mx-auto px-6 py-20 bg-black rounded-lg shadow-md">
+      <h1 className="text-3xl font-extrabold text-center text-red-600 mb-10">
+        Explore All Products
+      </h1>
+        
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        {products.map((item, index) => (
+          <ProductCard
+            key={index}
+            image={item.image}
+            name={item.name}
+            description={item.description}
+            rating={item.rating}
+          />
+        ))}
+      </div>
+    </section>
+  );
+}
