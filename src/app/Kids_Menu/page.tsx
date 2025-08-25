@@ -52,6 +52,24 @@ export default function KidsMenuPage() {
       rating: 5,
     },
     {
+      image: '/Image/kidswatermat.jpg',
+      name: 'Kids Water Mat',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kidsminifan.jpg',
+      name: 'Kids Mini Fan',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kidsmagicdiary.jpg',
+      name: 'Kids Magic Dairy',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/babytoys.jpg',
       name: 'Baby Toys',
       description: '',

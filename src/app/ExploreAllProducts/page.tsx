@@ -33,6 +33,24 @@ export default function ExploreAllProductsPage() {
       rating: 4,
     },
     {
+      image: '/Image/kidswatermat.jpg',
+      name: 'Kids Water Mat',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kidsminifan.jpg',
+      name: 'Kids Mini Fan',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kidsmagicdiary.jpg',
+      name: 'Kids Magic Dairy',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/clothesshoerack.jpg',
       name: 'Clothes & Shoe Rack',
       description: '',
@@ -125,6 +143,18 @@ export default function ExploreAllProductsPage() {
       rating: 5,
     },
     {
+      image: '/Image/ladieshandbagnew1.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladieshandbagnew2.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/ac_cover.jpg',
       name: 'AC Cover',
       description: '',
@@ -151,6 +181,18 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/containerset.jpg',
       name: 'Container Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet1.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet2.jpg',
+      name: 'Bed Sheet',
       description: '',
       rating: 5,
     },
@@ -227,10 +269,12 @@ export default function ExploreAllProductsPage() {
       description: '',
       rating: 5,
     },
-   
-    
-    
-    
+   {
+      image: '/Image/lip_pensils.jpg',
+      name: 'Ladies Lip Pensils',
+      description: '',
+      rating: 5,
+    },
     {
       image: '/Image/partywear1.jpg',
       name: 'Ladies Party Wear',

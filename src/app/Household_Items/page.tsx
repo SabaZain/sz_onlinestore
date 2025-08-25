@@ -3,6 +3,18 @@ import ProductCard from '../components/ProductCard';
 export default function HouseholdPage() {
   const products = [
     {
+      image: '/Image/bedsheet1.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet2.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/tumbler3.jpg',
       name: 'Tumbler',
       description: '',

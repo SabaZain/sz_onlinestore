@@ -9,12 +9,29 @@ export default function FashionPage() {
       rating: 5,
     },
     {
+      image: '/Image/ladieshandbagnew1.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladieshandbagnew2.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/ladieswatch2.jpg',
       name: 'Ladies Watch',
       description: '',
       rating: 5,
     },
-    
+    {
+      image: '/Image/lip_pensils.jpg',
+      name: 'Ladies Lip Pensils',
+      description: '',
+      rating: 5,
+    },
     {
       image: '/Image/skechers1.jpg',
       name: 'Skechers',
