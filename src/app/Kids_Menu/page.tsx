@@ -82,6 +82,12 @@ export default function KidsMenuPage() {
       rating: 4,
     },
     {
+      image: '/Image/schoolbag1.jpg',
+      name: 'Kids Bag',
+      description: '',
+      rating: 4,
+    },
+    {
       image: '/Image/kidsbag1.jpg',
       name: 'Kids Bag',
       description: '',

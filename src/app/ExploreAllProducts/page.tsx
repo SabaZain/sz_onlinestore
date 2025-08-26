@@ -9,6 +9,12 @@ export default function ExploreAllProductsPage() {
       rating: 5,
     },
     {
+      image: '/Image/menwatch.jpg',
+      name: 'Gents Watch',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/ladiesfootwear1.jpg',
       name: 'Ladies Footwear',
       description: '',
@@ -20,9 +26,45 @@ export default function ExploreAllProductsPage() {
       description: '',
       rating: 5,
     },
+    {
+      image: '/Image/bedsheet3.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet4.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet5.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet6.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
      {
       image: '/Image/storagebox.jpg',
       name: 'Storage Box',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kitchenspoons.jpg',
+      name: 'Kitchen Spoons',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/menwatch1.jpg',
+      name: 'Gents Watch',
       description: '',
       rating: 5,
     },
@@ -35,6 +77,24 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/kidswatermat.jpg',
       name: 'Kids Water Mat',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/mobilewaterpouch.jpg',
+      name: 'Mobile Water Pouch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/mopnew.jpg',
+      name: 'Mop',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/raincoat.jpg',
+      name: 'Rain Coat',
       description: '',
       rating: 5,
     },
@@ -101,6 +161,18 @@ export default function ExploreAllProductsPage() {
       rating: 5,
     },
     {
+      image: '/Image/electrichumidifier.jpg',
+      name: 'Electric Humidifier',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/importedtumbler.jpg',
+      name: 'High Quality Tumbler',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/kidscolorset.jpg',
       name: 'Kids Color Set',
       description: '',
@@ -143,6 +215,18 @@ export default function ExploreAllProductsPage() {
       rating: 5,
     },
     {
+      image: '/Image/ladieshandbagnew3.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladieshandbagnew4.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/ladieshandbagnew1.jpg',
       name: 'Ladies Handbag',
       description: '',
@@ -157,6 +241,12 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/ac_cover.jpg',
       name: 'AC Cover',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/jewellerybox.jpg',
+      name: 'Jewellery Box',
       description: '',
       rating: 5,
     },
@@ -175,6 +265,12 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/cleaningclothroll.jpg',
       name: 'Cleaning Cloth Roll',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kitchenwipes.jpg',
+      name: 'Kitchen Wipes',
       description: '',
       rating: 5,
     },
@@ -203,8 +299,38 @@ export default function ExploreAllProductsPage() {
       rating: 5,
     },
     {
+      image: '/Image/tumblernew1.jpg',
+      name: 'Tumbler',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/tumblernew2.jpg',
+      name: 'Tumbler',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/tumblernew3.jpg',
+      name: 'Tumbler',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/cleaningtowel.jpg',
+      name: 'Kitchen Cleaning Towel',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/kidsdress3.jpg',
       name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/schoolbag1.jpg',
+      name: 'Kids Bag',
       description: '',
       rating: 4,
     },

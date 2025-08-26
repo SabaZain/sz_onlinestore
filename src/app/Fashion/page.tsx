@@ -9,6 +9,18 @@ export default function FashionPage() {
       rating: 5,
     },
     {
+      image: '/Image/ladieshandbagnew3.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladieshandbagnew4.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/ladieshandbagnew1.jpg',
       name: 'Ladies Handbag',
       description: '',
@@ -29,6 +41,12 @@ export default function FashionPage() {
     {
       image: '/Image/lip_pensils.jpg',
       name: 'Ladies Lip Pensils',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/jewellerybox.jpg',
+      name: 'Jewellery Box',
       description: '',
       rating: 5,
     },
@@ -90,6 +108,18 @@ export default function FashionPage() {
     {
       image: '/Image/gentssleepers1.jpg',
       name: 'Sleepers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/menwatch.jpg',
+      name: 'Gents Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/menwatch1.jpg',
+      name: 'Gents Watch',
       description: '',
       rating: 5,
     },
