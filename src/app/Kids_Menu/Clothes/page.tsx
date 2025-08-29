@@ -2,12 +2,7 @@ import ProductCard from "@/app/components/ProductCard";
 
 export default function KidsClothesPage() {
   const products = [
-    {
-      image: '/Image/kidsnight.jpg',
-      name: 'Kids Night Dress',
-      description: '',
-      rating: 4,
-    },
+    
      {
       image: '/Image/kidsnight1.jpg',
       name: 'Kids Night Dress',
@@ -28,6 +23,12 @@ export default function KidsClothesPage() {
     },
      {
       image: '/Image/kidsnight5.jpg',
+      name: 'Kids Night Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidsnight.jpg',
       name: 'Kids Night Dress',
       description: '',
       rating: 4,
