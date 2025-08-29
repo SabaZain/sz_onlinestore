@@ -57,6 +57,24 @@ export default function FashionPage() {
       rating: 5,
     },
     {
+      image: '/Image/ladiessandles1.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/ladiessandles2.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/ladiessandles3.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/ladiesfootwear2.jpg',
       name: 'Ladies Foot Wear',
       description: '',
@@ -162,12 +180,65 @@ export default function FashionPage() {
       description: '',
       rating: 5,
     },
-    
+    {
+      image: '/Image/joggers2.jpg',
+      name: 'Joggers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/joggers3.jpg',
+      name: 'Joggers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/joggers4.jpg',
+      name: 'Joggers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/earing1.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/earing2.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/earing3.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/earing4.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/earing5.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/rings.jpg',
+      name: 'Rings',
+      description: '',
+      rating: 5,
+    },
     
   ];
 
   return (
-    <section className="max-w-4xl mx-auto px-6 py-20 bg-black rounded-lg shadow-md">
+    <section className="max-w-4xl mx-auto px-6 py-20 bg-black shadow-md">
       <h1 className="text-3xl font-extrabold text-center text-red-600 mb-10">
         Fashion
       </h1>

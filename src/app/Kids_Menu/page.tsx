@@ -112,10 +112,40 @@ export default function KidsMenuPage() {
       description: '',
       rating: 4,
     },
+    {
+      image: '/Image/kidsnight.jpg',
+      name: 'Kids Night Dress',
+      description: '',
+      rating: 4,
+    },
+     {
+      image: '/Image/kidsnight1.jpg',
+      name: 'Kids Night Dress',
+      description: '',
+      rating: 4,
+    },
+     {
+      image: '/Image/kidsnight3.jpg',
+      name: 'Kids Night Dress',
+      description: '',
+      rating: 4,
+    },
+     {
+      image: '/Image/kidsnight4.jpg',
+      name: 'Kids Night Dress',
+      description: '',
+      rating: 4,
+    },
+     {
+      image: '/Image/kidsnight5.jpg',
+      name: 'Kids Night Dress',
+      description: '',
+      rating: 4,
+    },
   ];
 
   return (
-    <section className="max-w-4xl mx-auto px-6 py-20 bg-black rounded-lg shadow-md">
+    <section className="max-w-4xl mx-auto px-6 py-20 bg-black shadow-md">
       <h1 className="text-3xl font-extrabold text-center text-red-600 mb-10">
         Kids Menu
       </h1>

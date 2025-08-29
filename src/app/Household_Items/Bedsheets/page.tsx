@@ -38,13 +38,50 @@ export default function BedsheetPage() {
       description: '',
       rating: 5,
     },
+    {
+      image: '/Image/bedsheet7.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    
+    {
+      image: '/Image/bedsheet8.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet9.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet10.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet11.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet12.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
    
     
   
   ];
 
   return (
-    <section className="max-w-4xl mx-auto px-6 py-20 bg-black rounded-lg shadow-md">
+    <section className="max-w-4xl mx-auto px-6 py-20 bg-black shadow-md">
       <h1 className="text-3xl font-extrabold text-center text-red-600 mb-10">
         Bedsheets
       </h1>

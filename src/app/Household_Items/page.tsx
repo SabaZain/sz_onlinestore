@@ -2,24 +2,8 @@ import ProductCard from '../components/ProductCard';
 
 export default function HouseholdPage() {
   const products = [
-    {
-      image: '/Image/bedsheet1.jpg',
-      name: 'Bed Sheet',
-      description: '',
-      rating: 5,
-    },
-    {
-      image: '/Image/bedsheet2.jpg',
-      name: 'Bed Sheet',
-      description: '',
-      rating: 5,
-    },
-    {
-      image: '/Image/bedsheet3.jpg',
-      name: 'Bed Sheet',
-      description: '',
-      rating: 5,
-    },
+   
+    
     {
       image: '/Image/bedsheet4.jpg',
       name: 'Bed Sheet',
@@ -221,11 +205,37 @@ export default function HouseholdPage() {
       description: '',
       rating: 5,
     },
+     {
+      image: '/Image/bedsheet6.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet7.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    
+    {
+      image: '/Image/bedsheet8.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet12.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+   
   
   ];
 
   return (
-    <section className="max-w-4xl mx-auto px-6 py-20 bg-black rounded-lg shadow-md">
+    <section className="max-w-4xl mx-auto px-6 py-20 bg-black shadow-md">
       <h1 className="text-3xl font-extrabold text-center text-red-600 mb-10">
         Household Items
       </h1>

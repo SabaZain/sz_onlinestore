@@ -2,6 +2,42 @@ import ProductCard from "@/app/components/ProductCard";
 
 export default function AccessoriesPage() {
   const products = [
+     {
+      image: '/Image/earing1.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/earing2.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/earing3.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/earing4.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/earing5.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/rings.jpg',
+      name: 'Rings',
+      description: '',
+      rating: 5,
+    },
     {
       image: '/Image/redstone_ring.jpg',
       name: 'Redstone Ring',
@@ -26,11 +62,16 @@ export default function AccessoriesPage() {
       description: '',
       rating: 5,
     },
-    
+    {
+      image: '/Image/hairbow2.jpg',
+      name: 'Hair Bow',
+      description: '',
+      rating: 5,
+    },
    
 ];
 return (
-    <section className="max-w-4xl mx-auto px-6 py-20 bg-black rounded-lg shadow-md">
+    <section className="max-w-4xl mx-auto px-6 py-20 bg-black shadow-md">
       <h1 className="text-3xl font-extrabold text-center text-red-600 mb-10">
         Jewellery & other Accessories
       </h1>

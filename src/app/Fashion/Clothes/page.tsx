@@ -2,7 +2,8 @@ import ProductCard from "@/app/components/ProductCard";
 
 export default function ClothesPage() {
   const products = [
-    {
+   
+   {
       image: '/Image/ladiesdress1.jpg',
       name: 'Ladies Dress',
       description: '',
@@ -14,7 +15,18 @@ export default function ClothesPage() {
       description: '',
       rating: 5,
     },
-
+ {
+      image: '/Image/ladiesdress3.jpg',
+      name: 'Ladies Dress',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladiesdress4.jpg',
+      name: 'Ladies Dress',
+      description: '',
+      rating: 5,
+    },
     {
       image: '/Image/chordsuit1.jpg',
       name: 'Chord Suit',
@@ -36,7 +48,7 @@ export default function ClothesPage() {
    
 ];
 return (
-    <section className="max-w-4xl mx-auto px-6 py-20 bg-black rounded-lg shadow-md">
+    <section className="max-w-4xl mx-auto px-6 py-20 bg-black shadow-md">
       <h1 className="text-3xl font-extrabold text-center text-red-600 mb-10">
         Ladies Clothes
       </h1>

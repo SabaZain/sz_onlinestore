@@ -50,6 +50,24 @@ export default function ExploreAllProductsPage() {
       description: '',
       rating: 5,
     },
+    {
+      image: '/Image/gentssleepers2.jpg',
+      name: 'Sleepers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/gentssleepers3.jpg',
+      name: 'Sleepers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/gentssleepers4.jpg',
+      name: 'Sleepers',
+      description: '',
+      rating: 5,
+    },
      {
       image: '/Image/storagebox.jpg',
       name: 'Storage Box',
@@ -111,6 +129,24 @@ export default function ExploreAllProductsPage() {
       rating: 5,
     },
     {
+      image: '/Image/joggers2.jpg',
+      name: 'Joggers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/joggers3.jpg',
+      name: 'Joggers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/joggers4.jpg',
+      name: 'Joggers',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/clothesshoerack.jpg',
       name: 'Clothes & Shoe Rack',
       description: '',
@@ -132,6 +168,24 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/plasticmop.jpg',
       name: 'Plastic Mop',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladiessandles1.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/ladiessandles2.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/ladiessandles3.jpg',
+      name: 'Ladies Foot Wear',
       description: '',
       rating: 5,
     },
@@ -475,11 +529,55 @@ export default function ExploreAllProductsPage() {
       description: '',
       rating: 5,
     },
+    {
+      image: '/Image/bedsheet6.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet7.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    
+    {
+      image: '/Image/bedsheet8.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet9.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet10.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet11.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bedsheet12.jpg',
+      name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+   
   
   ];
 
   return (
-    <section className="max-w-4xl mx-auto px-6 py-20 bg-black rounded-lg shadow-md">
+    <section className="max-w-4xl mx-auto px-6 py-20 bg-black shadow-md">
       <h1 className="text-3xl font-extrabold text-center text-red-600 mb-10">
         Explore All Products
       </h1>
