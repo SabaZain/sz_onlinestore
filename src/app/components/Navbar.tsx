@@ -28,7 +28,7 @@ const Navbar = () => {
             height={60}
             className="rounded-full"
           />
-          <h1 className="p-4 text-3xl text-second font-bold">SZ Online Store</h1>
+          <h1 className="p-4 text-xl text-second font-bold">SZ Online Store</h1>
         </div>
 
         {/* Hamburger - Mobile */}
