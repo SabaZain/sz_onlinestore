@@ -41,6 +41,48 @@ export default function HouseholdPage() {
       rating: 5,
     },
     {
+      image: '/Image/bowlset1.jpg',
+      name: 'Bowl Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bowlset2.jpg',
+      name: 'Bowl Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/cupset1.jpg',
+      name: 'Cup Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/cupset2.jpg',
+      name: 'Cup Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/tissuebox1.jpg',
+      name: 'Tissue Box',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/kitchen_box.jpg',
+      name: 'Kitchen Box',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/measuringjar.jpg',
+      name: 'Measuring Jar',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/mopnew.jpg',
       name: 'Mop',
       description: '',
@@ -73,25 +115,6 @@ export default function HouseholdPage() {
     {
       image: '/Image/importedtumbler.jpg',
       name: 'High Quality Tumbler',
-      description: '',
-      rating: 5,
-    },
-    {
-      image: '/Image/tumblernew1.jpg',
-      name: 'Tumbler',
-      description: '',
-      rating: 5,
-    },
-    
-    {
-      image: '/Image/tumblernew2.jpg',
-      name: 'Tumbler',
-      description: '',
-      rating: 5,
-    },
-    {
-      image: '/Image/tumblernew3.jpg',
-      name: 'Tumbler',
       description: '',
       rating: 5,
     },

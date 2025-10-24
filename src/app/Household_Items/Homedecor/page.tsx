@@ -58,11 +58,11 @@ export default function HomedecorPage() {
       rating: 5,
     },
     {
-      image: '/Image/raincoat.jpg',
-      name: 'Rain Coat',
+      image: '/Image/tissuebox1.jpg',
+      name: 'Tissue Box',
       description: '',
       rating: 5,
-    }
+    },
 ];
 return (
     <section className="max-w-4xl mx-auto px-6 py-20 bg-black shadow-md">

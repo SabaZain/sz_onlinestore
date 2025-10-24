@@ -2,7 +2,24 @@ import ProductCard from "@/app/components/ProductCard";
 
 export default function ClothesPage() {
   const products = [
-   
+    {
+      image: '/Image/unstitchdress1.jpg',
+      name: 'Ladies Unstitch Dress',
+      description: '',
+      rating: 5,
+    },
+   {
+      image: '/Image/unstitchdress2.jpg',
+      name: 'Ladies Unstitch Dress',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/unstitchdress3.jpg',
+      name: 'Ladies Unstitch Dress',
+      description: '',
+      rating: 5,
+    },
    {
       image: '/Image/ladiesdress1.jpg',
       name: 'Ladies Dress',

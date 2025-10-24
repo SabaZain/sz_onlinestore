@@ -2,7 +2,36 @@ import ProductCard from "@/app/components/ProductCard";
 
 export default function KidsClothesPage() {
   const products = [
-    
+    {
+      image: '/Image/kidssuit_new1.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidssuit_new2.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidssuit_new3.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidspink.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidsblue.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
      {
       image: '/Image/kidsnight1.jpg',
       name: 'Kids Night Dress',

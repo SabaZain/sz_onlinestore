@@ -3,6 +3,36 @@ import ProductCard from "@/app/components/ProductCard";
 export default function HandbagsPage() {
   const products = [
     {
+      image: '/Image/bighandbag1.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bighandbag2.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bighandbag3.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/mehroonbag.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/rustbag.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/ladieshandbag2.jpg',
       name: 'Ladies Handbag',
       description: '',

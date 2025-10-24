@@ -2,6 +2,54 @@ import ProductCard from '../components/ProductCard';
 
 export default function ExploreAllProductsPage() {
   const products = [
+    {
+      image: '/Image/jewellery_set1.jpg',
+      name: 'Elegant Jewellery Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/jewellery_set2.jpg',
+      name: 'Elegant Jewellery Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/catcherset1.jpg',
+      name: 'Catchers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/catcherset2.jpg',
+      name: 'Catchers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladies_goldenwatch.jpg',
+      name: 'Ladies Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladies_goldenwatch1.jpg',
+      name: 'Ladies Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_gentswatch1.jpg',
+      name: 'Gents Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_gentswatch2.jpg',
+      name: 'Gents Watch',
+      description: '',
+      rating: 5,
+    },
    {
       image: '/Image/gentswatch1.jpg',
       name: 'Gents Watch',
@@ -17,6 +65,24 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/ladiesfootwear1.jpg',
       name: 'Ladies Footwear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bighandbag1.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bighandbag2.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bighandbag3.jpg',
+      name: 'Ladies Handbag',
       description: '',
       rating: 5,
     },
@@ -47,6 +113,12 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/bedsheet6.jpg',
       name: 'Bed Sheet',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/blackearings.jpg',
+      name: 'Earings',
       description: '',
       rating: 5,
     },
@@ -83,6 +155,18 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/menwatch1.jpg',
       name: 'Gents Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/tissuebox1.jpg',
+      name: 'Tissue Box',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/watchbox.jpg',
+      name: 'Watch Box',
       description: '',
       rating: 5,
     },
@@ -125,6 +209,30 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/kidsmagicdiary.jpg',
       name: 'Kids Magic Dairy',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/new_ladiesfootwear1.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_ladiesfootwear2.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_ladiesfootwear3.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_ladiesfootwear4.jpg',
+      name: 'Ladies Foot Wear',
       description: '',
       rating: 5,
     },
@@ -237,6 +345,24 @@ export default function ExploreAllProductsPage() {
       name: 'Kids Prayer Mat',
       description: '',
       rating: 4,
+    },
+    {
+      image: '/Image/unstitchdress1.jpg',
+      name: 'Ladies Unstitch Dress',
+      description: '',
+      rating: 5,
+    },
+   {
+      image: '/Image/unstitchdress2.jpg',
+      name: 'Ladies Unstitch Dress',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/unstitchdress3.jpg',
+      name: 'Ladies Unstitch Dress',
+      description: '',
+      rating: 5,
     },
     {
       image: '/Image/kidsdress1.jpg',
@@ -353,24 +479,6 @@ export default function ExploreAllProductsPage() {
       rating: 5,
     },
     {
-      image: '/Image/tumblernew1.jpg',
-      name: 'Tumbler',
-      description: '',
-      rating: 5,
-    },
-    {
-      image: '/Image/tumblernew2.jpg',
-      name: 'Tumbler',
-      description: '',
-      rating: 5,
-    },
-    {
-      image: '/Image/tumblernew3.jpg',
-      name: 'Tumbler',
-      description: '',
-      rating: 5,
-    },
-    {
       image: '/Image/cleaningtowel.jpg',
       name: 'Kitchen Cleaning Towel',
       description: '',
@@ -378,6 +486,36 @@ export default function ExploreAllProductsPage() {
     },
     {
       image: '/Image/kidsdress3.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidssuit_new1.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidssuit_new2.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidssuit_new3.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidspink.jpg',
+      name: 'Kids Dress',
+      description: '',
+      rating: 4,
+    },
+    {
+      image: '/Image/kidsblue.jpg',
       name: 'Kids Dress',
       description: '',
       rating: 4,
@@ -514,6 +652,30 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/chordsuit2.jpg',
       name: 'Chord Suit',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bowlset1.jpg',
+      name: 'Bowl Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bowlset2.jpg',
+      name: 'Bowl Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/cupset1.jpg',
+      name: 'Cup Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/cupset2.jpg',
+      name: 'Cup Set',
       description: '',
       rating: 5,
     },

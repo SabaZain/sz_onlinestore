@@ -2,6 +2,24 @@ import ProductCard from "@/app/components/ProductCard";
 
 export default function AccessoriesPage() {
   const products = [
+    {
+      image: '/Image/jewellery_set1.jpg',
+      name: 'Elegant Jewellery Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/jewellery_set2.jpg',
+      name: 'Elegant Jewellery Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/blackearings.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
      {
       image: '/Image/earing1.jpg',
       name: 'Earings',
@@ -29,6 +47,18 @@ export default function AccessoriesPage() {
     {
       image: '/Image/earing5.jpg',
       name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/catcherset1.jpg',
+      name: 'Catchers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/catcherset2.jpg',
+      name: 'Catchers',
       description: '',
       rating: 5,
     },
@@ -65,6 +95,31 @@ export default function AccessoriesPage() {
     {
       image: '/Image/hairbow2.jpg',
       name: 'Hair Bow',
+      description: '',
+      rating: 5,
+    },
+    
+    {
+      image: '/Image/eyelashes_roller.jpg',
+      name: 'Eye Lashes Roller',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/makeupmirror.jpg',
+      name: 'Makeup Mirror',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/threadset.jpg',
+      name: 'Thread Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/watchbox.jpg',
+      name: 'Watch Box',
       description: '',
       rating: 5,
     },

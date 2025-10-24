@@ -3,6 +3,30 @@ import ProductCard from "@/app/components/ProductCard";
 export default function ShoesPage() {
   const products = [
     {
+      image: '/Image/new_ladiesfootwear1.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_ladiesfootwear2.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_ladiesfootwear3.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_ladiesfootwear4.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/ladiessandles1.jpg',
       name: 'Ladies Foot Wear',
       description: '',

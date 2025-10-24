@@ -3,6 +3,48 @@ import ProductCard from '../components/ProductCard';
 export default function FashionPage() {
   const products = [
     {
+      image: '/Image/mehroonbag.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/rustbag.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladies_goldenwatch.jpg',
+      name: 'Ladies Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/ladies_goldenwatch1.jpg',
+      name: 'Ladies Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bighandbag1.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bighandbag2.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/bighandbag3.jpg',
+      name: 'Ladies Handbag',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/ladieshandbag2.jpg',
       name: 'Ladies Handbag',
       description: '',
@@ -33,6 +75,18 @@ export default function FashionPage() {
       rating: 5,
     },
     {
+      image: '/Image/catcherset1.jpg',
+      name: 'Catchers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/catcherset2.jpg',
+      name: 'Catchers',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/ladieswatch2.jpg',
       name: 'Ladies Watch',
       description: '',
@@ -53,6 +107,30 @@ export default function FashionPage() {
     {
       image: '/Image/skechers1.jpg',
       name: 'Skechers',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/new_ladiesfootwear1.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_ladiesfootwear2.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_ladiesfootwear3.jpg',
+      name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_ladiesfootwear4.jpg',
+      name: 'Ladies Foot Wear',
       description: '',
       rating: 5,
     },
@@ -83,6 +161,24 @@ export default function FashionPage() {
     {
       image: '/Image/ladiesfootwear3.jpg',
       name: 'Ladies Foot Wear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/unstitchdress1.jpg',
+      name: 'Ladies Unstitch Dress',
+      description: '',
+      rating: 5,
+    },
+   {
+      image: '/Image/unstitchdress2.jpg',
+      name: 'Ladies Unstitch Dress',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/unstitchdress3.jpg',
+      name: 'Ladies Unstitch Dress',
       description: '',
       rating: 5,
     },
@@ -126,6 +222,18 @@ export default function FashionPage() {
     {
       image: '/Image/gentssleepers1.jpg',
       name: 'Sleepers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_gentswatch1.jpg',
+      name: 'Gents Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/new_gentswatch2.jpg',
+      name: 'Gents Watch',
       description: '',
       rating: 5,
     },
@@ -199,6 +307,24 @@ export default function FashionPage() {
       rating: 5,
     },
     {
+      image: '/Image/jewellery_set1.jpg',
+      name: 'Elegant Jewellery Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/jewellery_set2.jpg',
+      name: 'Elegant Jewellery Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/blackearings.jpg',
+      name: 'Earings',
+      description: '',
+      rating: 5,
+    },
+    {
       image: '/Image/earing1.jpg',
       name: 'Earings',
       description: '',
@@ -234,7 +360,30 @@ export default function FashionPage() {
       description: '',
       rating: 5,
     },
-    
+    {
+      image: '/Image/eyelashes_roller.jpg',
+      name: 'Eye Lashes Roller',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/makeupmirror.jpg',
+      name: 'Makeup Mirror',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/threadset.jpg',
+      name: 'Thread Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/watchbox.jpg',
+      name: 'Watch Box',
+      description: '',
+      rating: 5,
+    },
   ];
 
   return (
