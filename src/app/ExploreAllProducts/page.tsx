@@ -3,26 +3,8 @@ import ProductCard from '../components/ProductCard';
 export default function ExploreAllProductsPage() {
   const products = [
     {
-      image: '/Image/jewellery_set1.jpg',
-      name: 'Elegant Jewellery Set',
-      description: '',
-      rating: 5,
-    },
-    {
-      image: '/Image/jewellery_set2.jpg',
-      name: 'Elegant Jewellery Set',
-      description: '',
-      rating: 5,
-    },
-    {
-      image: '/Image/catcherset1.jpg',
-      name: 'Catchers',
-      description: '',
-      rating: 5,
-    },
-    {
-      image: '/Image/catcherset2.jpg',
-      name: 'Catchers',
+      image: '/Image/ladieswatch2.jpg',
+      name: 'Ladies Watch',
       description: '',
       rating: 5,
     },
@@ -65,6 +47,30 @@ export default function ExploreAllProductsPage() {
     {
       image: '/Image/ladiesfootwear1.jpg',
       name: 'Ladies Footwear',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/jewellery_set1.jpg',
+      name: 'Elegant Jewellery Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/jewellery_set2.jpg',
+      name: 'Elegant Jewellery Set',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/catcherset1.jpg',
+      name: 'Catchers',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/catcherset2.jpg',
+      name: 'Catchers',
       description: '',
       rating: 5,
     },
@@ -303,12 +309,7 @@ export default function ExploreAllProductsPage() {
       description: '',
       rating: 5,
     },
-    {
-      image: '/Image/ladieswatch2.jpg',
-      name: 'Ladies Watch',
-      description: '',
-      rating: 5,
-    },
+    
     
     {
       image: '/Image/skechers1.jpg',
