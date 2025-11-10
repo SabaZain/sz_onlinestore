@@ -348,12 +348,6 @@ export default function ExploreAllProductsPage() {
       rating: 5,
     },
     {
-      image: '/Image/NewLunchbox3.jpg',
-      name: 'Lunch Box',
-      description: '',
-      rating: 5,
-    },
-    {
       image: '/Image/NewLunchbox4.jpg',
       name: 'Lunch Box',
       description: '',
