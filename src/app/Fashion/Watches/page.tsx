@@ -3,6 +3,50 @@ import ProductCard from "@/app/components/ProductCard";
 export default function WatchesPage() {
   const products = [
     {
+      image: '/Image/NewArrivalWatch2.jpg',
+      name: 'Elegant Ladies Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/NewArrivalWatch4.jpg',
+      name: 'Elegant Ladies Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/NewArrivalWatch3.jpg',
+      name: 'Elegant Ladies Watch',
+      description: '',
+      rating: 5,
+    },
+     {
+      image: '/Image/NewArrivalMen3.jpg',
+      name: 'High Quality Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/NewArrivalMen1.jpg',
+      name: 'Gents Watch',
+      description: '',
+      rating: 5,
+    },
+    {
+      image: '/Image/NewArrivalMen2.jpg',
+      name: 'High Quality Watch',
+      description: '',
+      rating: 5,
+    },
+   
+    {
+      image: '/Image/NewArrivalMen4.jpg',
+      name: 'High Quality Watch',
+      description: '',
+      rating: 5,
+    },
+    
+    {
       image: '/Image/ladies_goldenwatch.jpg',
       name: 'Ladies Watch',
       description: '',

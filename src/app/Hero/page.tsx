@@ -9,7 +9,7 @@ const Hero = () => {
   const images = [
     "/Image/HeroImage1.png",
     "/Image/HeroImage2.png",
-    "/Image/HeroImage3.webp",
+    "/Image/NewArrivalWatch1.jpg",
     
   ];
 
