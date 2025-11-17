@@ -7,6 +7,7 @@ import Link from "next/link";
 
 const Hero = () => {
   const images = [
+    "/Image/newheroonline.png",
     "/Image/HeroImage1.png",
     "/Image/HeroImage2.png",
     "/Image/NewArrivalWatch1.jpg",
